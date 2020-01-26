@@ -1,0 +1,8 @@
+prefix=/home/kenny/sdrc-urc-arm/install
+
+Name: sdrc_arm_v1
+Description: Description of sdrc_arm_v1
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/kenny/sdrc-urc-arm/install/lib -lsdrc_arm_v1
+Requires: sensor_msgs rospy

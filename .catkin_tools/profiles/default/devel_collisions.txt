@@ -1,0 +1,5 @@
+/home/kenny/sdrc-urc-arm/devel/lib/pkgconfig/simple_arm.pc 1
+/home/kenny/sdrc-urc-arm/devel/share/simple_arm/cmake/simple_armConfig.cmake 1
+/home/kenny/sdrc-urc-arm/devel/share/simple_arm/cmake/simple_armConfig-version.cmake 1
+/home/kenny/sdrc-urc-arm/devel/./cmake.lock 6
+/home/kenny/sdrc-urc-arm/devel/lib/python2.7/dist-packages/simple_arm/__init__.py 1

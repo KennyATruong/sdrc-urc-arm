@@ -1,0 +1,6 @@
+simple_arm
+/home/kenny/sdrc-urc-arm/devel/.private/simple_arm/cmake.lock /home/kenny/sdrc-urc-arm/devel/./cmake.lock
+/home/kenny/sdrc-urc-arm/devel/.private/simple_arm/share/simple_arm/cmake/simple_armConfig-version.cmake /home/kenny/sdrc-urc-arm/devel/share/simple_arm/cmake/simple_armConfig-version.cmake
+/home/kenny/sdrc-urc-arm/devel/.private/simple_arm/share/simple_arm/cmake/simple_armConfig.cmake /home/kenny/sdrc-urc-arm/devel/share/simple_arm/cmake/simple_armConfig.cmake
+/home/kenny/sdrc-urc-arm/devel/.private/simple_arm/lib/python2.7/dist-packages/simple_arm/__init__.py /home/kenny/sdrc-urc-arm/devel/lib/python2.7/dist-packages/simple_arm/__init__.py
+/home/kenny/sdrc-urc-arm/devel/.private/simple_arm/lib/pkgconfig/simple_arm.pc /home/kenny/sdrc-urc-arm/devel/lib/pkgconfig/simple_arm.pc

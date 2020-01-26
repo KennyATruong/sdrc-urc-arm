@@ -1,0 +1,6 @@
+set(sdrc_arm_v1_SETUP_PY_VERSION "0.1.0")
+set(sdrc_arm_v1_SETUP_PY_SCRIPTS "")
+set(sdrc_arm_v1_SETUP_PY_PACKAGES "sdrc_arm_v1")
+set(sdrc_arm_v1_SETUP_PY_PACKAGE_DIRS "src/sdrc_arm_v1")
+set(sdrc_arm_v1_SETUP_PY_MODULES "")
+set(sdrc_arm_v1_SETUP_PY_MODULE_DIRS "")

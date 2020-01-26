@@ -1,0 +1,6 @@
+#!/usr/bin/env python2
+
+from sdrc_arm_v1 import sdrc_arm_v1
+
+if __name__ == '__main__':
+    sdrc_arm_v1.main()

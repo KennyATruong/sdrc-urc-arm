@@ -1,0 +1,7 @@
+[31m[1mCMake Error[0m at /opt/ros/melodic/share/catkin/cmake/catkin_install_python.cmake:56 (message):
+  catkin_install_python() called with non-existing file
+  '/home/kenny/sdrc-urc-arm/src/sdrc_arm_v1/nodes/simple_arm'.
+[36mCall Stack (most recent call first):[0m
+  CMakeLists.txt:17 (catkin_install_python)
+
+

@@ -1,0 +1,6 @@
+devel_space: /home/kenny/sdrc-urc-arm/devel
+install: false
+install_space: /home/kenny/sdrc-urc-arm/install
+profile: default
+source_space: /home/kenny/sdrc-urc-arm/src
+workspace: /home/kenny/sdrc-urc-arm
